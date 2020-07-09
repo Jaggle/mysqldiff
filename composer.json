@@ -2,7 +2,7 @@
     "name": "jaggle/mysqldiff",
     "description": "diff mysql db structure and generate laravel migrations",
     "keywords": ["laravel", "database", "migration", "db diff"],
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
